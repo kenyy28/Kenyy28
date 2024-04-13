@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on Singlersc.github.io/blog.html
 
-- 📫 How to reach me **Singlesrsc2@gmail.com**
+- 📫 How to reach me **Singlersc2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
