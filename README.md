@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenyy28&label=Profile%20views&color=0e75b6&style=flat" alt="kenyy28" /> </p>
 
-- 🔭 I’m currently working on [Singlersc.github.io](Singlersc.github.io)
+- 🔭 I’m currently working on Singlersc.github.io
 
-- 📝 I regularly write articles on [Singlersc.github.io/blog.html](Singlersc.github.io/blog.html)
+- 📝 I regularly write articles on Singlersc.github.io/blog.html
 
 - 📫 How to reach me **Singlesrsc2@gmail.com**
 
